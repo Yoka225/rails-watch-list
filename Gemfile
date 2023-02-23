@@ -21,6 +21,14 @@ gem "jsbundling-rails"
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem "turbo-rails"
 
+gem "autoprefixer-rails"
+
+gem "font-awesome-sass", "~> 6.1"
+
+gem "simple_form", github: "heartcombo/simple_form"
+
+gem "sassc-rails"
+
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
 
